@@ -1,14 +1,6 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5ca8e621-6f8c-464d-98a3-763b3ae23e97" 
-    width="100%" 
-    autoplay 
-    loop 
-    muted 
-    playsinline
-    style="pointer-events: none; border-radius: 8px;">
-  </video>
+  <img src="https://github.com/user-attachments/assets/07013735-c84a-46fc-9277-9c4e2b917715" width="100%" alt="Dinh Duc Huy Broadcast Banner" style="border-radius: 8px;">
 </div>
-
 
 ## Hi there! 👋
 ### I'm Dinh Duc Huy, an **Web Developers** and Free Fire Tournament **Organizing Committee**
