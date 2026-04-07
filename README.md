@@ -1,7 +1,14 @@
-<video width="100%" autoplay loop muted playsinline>
-  <source src="https://raw.githack.com/iamdinhduchuy/iamdinhduchuy/main/videos/test_video_small.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ thẻ video.
-</video>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/5ca8e621-6f8c-464d-98a3-763b3ae23e97" 
+    width="100%" 
+    autoplay 
+    loop 
+    muted 
+    playsinline
+    style="pointer-events: none; border-radius: 8px;">
+  </video>
+</div>
+
 
 ## Hi there! 👋
 ### I'm Dinh Duc Huy, an **Web Developers** and Free Fire Tournament **Organizing Committee**
